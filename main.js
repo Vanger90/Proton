@@ -30,12 +30,12 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   lightScheme: "classic-bg",
-  darkt: 3,
+  darkt: 0.03,
   softdark: false,
   sdarkt: false,
   slarkt: false,
   colorheaders: false,
-  accent: 11,
+  accent: 0.11,
   accentplus: false,
   ColorDarkText: "default-color-dark",
   serifswitch: false,
@@ -49,7 +49,7 @@ var DEFAULT_SETTINGS = {
   softL: false,
   wide_text: false,
   soft_per: "38%",
-  fresh_dark: 40
+  fresh_dark: 0.4,
 };
 var MyPlugin = class extends import_obsidian.Plugin {
   constructor() {
