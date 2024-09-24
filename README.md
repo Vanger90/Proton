@@ -9,4 +9,4 @@ Proton is a plugin for customizing the default theme.
 For the plugin to work correctly, use only the default theme.
 
 ## Settings 
-![Window settings](/Settings.jpg)
+![Window settings](/Settings.png)
